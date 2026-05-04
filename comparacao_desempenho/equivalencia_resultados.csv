@@ -1,5 +1,0 @@
-consulta,comparacao,linhas_pandas,linhas_biblioteca,maior_diferenca_absoluta
-A - Perfil anual,Pandas vs PyArrow,31,31,0.0
-A - Perfil anual,Pandas vs Polars,31,31,0.0
-B - Completude schema,Pandas vs PyArrow,31,31,0.0
-B - Completude schema,Pandas vs Polars,31,31,0.0
