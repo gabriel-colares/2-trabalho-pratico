@@ -1,0 +1,169 @@
+contexto_schema,coluna,checagem,qtd_falhas_pandera,regra,tipo_falha,severidade,fatal,interpretacao,qtd_linhas_estimadas
+DataFrameSchema,ano_censo,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,co_municipio,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,in_agua_rede_publica,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,in_agua_potavel,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,dependencia_administrativa,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,id_escola,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,co_uf,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,co_regiao,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,in_agua_poco_artesiano,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,in_agua_inexistente,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,qt_doc_bas,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,no_uf,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,qt_mat_bas,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,qt_mat_fund,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,qt_doc_med,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,qt_doc_fund,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,sg_uf,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,situacao_funcionamento,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,tp_localizacao_diferenciada,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,tp_categoria_escola_privada,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,qt_tur_fund,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,qt_tur_med,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,qt_tur_bas,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,qt_mat_med,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,in_medio,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,in_pre_escola,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,in_predio_escolar,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,in_predio_compartilhado,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,localizacao,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,no_entidade,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,in_regular,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,in_profissionalizante,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,in_energia_inexistente,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,in_energia_rede_publica,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,in_fundamental,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,in_especial,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,in_eja,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,in_energia_gerador,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,in_educacao_indigena,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,in_creche,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,no_regiao,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,no_municipio,RN-05: escola ativa deve ter qt_mat_bas > 0 quando disponível,38554,RN-05,alerta_de_qualidade,média,False,escola ativa sem matrícula básica positiva; requer investigação,38554
+DataFrameSchema,in_medio,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,no_municipio,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,qt_mat_bas,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,qt_mat_fund,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,qt_doc_bas,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,no_regiao,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,qt_tur_fund,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,sg_uf,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,tp_localizacao_diferenciada,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,situacao_funcionamento,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,qt_tur_bas,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,qt_tur_med,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,qt_doc_med,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,no_uf,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,in_energia_inexistente,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,in_pre_escola,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,in_predio_escolar,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,in_predio_compartilhado,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,co_regiao,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,co_uf,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,id_escola,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,dependencia_administrativa,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,in_agua_potavel,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,in_agua_rede_publica,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,co_municipio,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,ano_censo,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,in_agua_poco_artesiano,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,in_agua_inexistente,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,qt_mat_med,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,qt_doc_fund,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,in_eja,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,in_energia_rede_publica,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,in_fundamental,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,in_especial,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,localizacao,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,no_entidade,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,in_regular,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,in_profissionalizante,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,in_educacao_indigena,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,in_energia_gerador,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,in_creche,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1575,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1575
+DataFrameSchema,tp_categoria_escola_privada,RN-13: qt_mat_fund > 0 exige in_fundamental = 1,1343,RN-13,erro_de_consistencia,média,False,matrícula no fundamental sem indicador de oferta correspondente,1343
+DataFrameSchema,tp_localizacao_diferenciada,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,situacao_funcionamento,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,sg_uf,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,qt_tur_med,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,co_municipio,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,ano_censo,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,in_agua_potavel,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,in_agua_rede_publica,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,qt_tur_bas,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,qt_mat_med,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,qt_tur_fund,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,qt_mat_fund,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,qt_doc_bas,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,no_uf,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,id_escola,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,dependencia_administrativa,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,in_agua_poco_artesiano,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,in_agua_inexistente,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,co_regiao,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,co_uf,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,in_fundamental,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,in_especial,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,in_energia_inexistente,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,in_energia_rede_publica,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,in_educacao_indigena,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,in_creche,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,in_eja,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,in_energia_gerador,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,in_predio_escolar,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,in_predio_compartilhado,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,no_municipio,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,no_regiao,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,qt_doc_med,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,qt_doc_fund,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,qt_mat_bas,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,no_entidade,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,in_regular,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,in_profissionalizante,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,in_medio,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,in_pre_escola,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,localizacao,RN-14: qt_mat_med > 0 exige in_medio = 1,1142,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,1142
+DataFrameSchema,tp_categoria_escola_privada,RN-14: qt_mat_med > 0 exige in_medio = 1,464,RN-14,erro_de_consistencia,média,False,matrícula no médio sem indicador de oferta correspondente,464
+DataFrameSchema,in_agua_rede_publica,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,in_agua_potavel,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,ano_censo,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,co_municipio,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,in_agua_inexistente,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,in_agua_poco_artesiano,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,co_uf,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,co_regiao,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,dependencia_administrativa,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,id_escola,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,no_entidade,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,localizacao,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,in_profissionalizante,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,in_regular,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,in_pre_escola,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,in_medio,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,in_predio_compartilhado,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,in_predio_escolar,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,in_energia_gerador,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,in_eja,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,in_creche,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,in_educacao_indigena,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,in_energia_rede_publica,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,in_energia_inexistente,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,in_especial,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,in_fundamental,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,qt_mat_fund,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,qt_mat_bas,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,qt_doc_fund,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,qt_doc_med,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,no_regiao,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,no_municipio,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,no_uf,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,qt_doc_bas,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,qt_tur_med,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,qt_tur_fund,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,qt_mat_med,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,qt_tur_bas,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,situacao_funcionamento,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,sg_uf,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,tp_localizacao_diferenciada,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,285,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,285
+DataFrameSchema,tp_categoria_escola_privada,RN-16: qt_tur_med > 0 exige qt_mat_med > 0,238,RN-16,alerta_de_qualidade,média,False,turma no médio sem matrícula correspondente,238

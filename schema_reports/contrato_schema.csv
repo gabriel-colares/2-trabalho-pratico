@@ -1,0 +1,43 @@
+coluna,tipo,permite_nulo,descricao,checagens
+ano_censo,Int64,False,Ano do Censo Escolar,"<Check in_range: in_range(1995, 2025)>"
+id_escola,string[pyarrow],False,Código da escola,<Check str_matches: str_matches('^\d+$')>
+co_municipio,string[pyarrow],True,Código do município,<Check str_matches: str_matches('^\d+$')>
+no_municipio,string[pyarrow],True,Nome do município,"<Check str_length: str_length(1, None)>"
+sg_uf,string[pyarrow],True,Sigla da UF,<Check str_matches: str_matches('^[A-Z]{2}$')>
+co_uf,Int64,True,Código da UF,"<Check isin: isin([11, 12, 13, 14, 15, 16, 17, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 32, 33, 35, 41, 42, 43, 50, 51, 52, 53])>"
+no_uf,string[pyarrow],True,Nome da UF,"<Check str_length: str_length(1, None)>"
+no_regiao,string[pyarrow],True,Nome da região,"<Check str_length: str_length(1, None)>"
+co_regiao,Int64,True,Código da região,"<Check isin: isin([1, 2, 3, 4, 5])>"
+no_entidade,string[pyarrow],True,Nome da escola,"<Check str_length: str_length(1, None)>"
+dependencia_administrativa,string[pyarrow],True,Dependência administrativa,"<Check isin: isin(['Federal', 'Estadual', 'Municipal', 'Privada'])>"
+localizacao,string[pyarrow],True,Localização,"<Check isin: isin(['Urbana', 'Rural'])>"
+situacao_funcionamento,string[pyarrow],True,Situação de funcionamento,"<Check isin: isin(['Ativa', 'Paralisada', 'Paralisado', 'Extinta', 'Extinto'])>"
+tp_localizacao_diferenciada,Int64,True,Tipo de localização diferenciada,<Check greater_than_or_equal_to: greater_than_or_equal_to(0)>
+tp_categoria_escola_privada,Int64,True,Categoria de escola privada,"<Check isin: isin([0, 1, 2, 3, 4])>"
+in_regular,Int64,True,Indicador binário,"<Check isin: isin([0, 1])>"
+in_creche,Int64,True,Indicador binário,"<Check isin: isin([0, 1])>"
+in_pre_escola,Int64,True,Indicador binário,"<Check isin: isin([0, 1])>"
+in_fundamental,Int64,True,Indicador binário,"<Check isin: isin([0, 1])>"
+in_medio,Int64,True,Indicador binário,"<Check isin: isin([0, 1])>"
+in_eja,Int64,True,Indicador binário,"<Check isin: isin([0, 1])>"
+in_profissionalizante,Int64,True,Indicador binário,"<Check isin: isin([0, 1])>"
+in_especial,Int64,True,Indicador binário,"<Check isin: isin([0, 1])>"
+in_educacao_indigena,Int64,True,Indicador binário,"<Check isin: isin([0, 1])>"
+in_predio_escolar,Int64,True,Indicador binário,"<Check isin: isin([0, 1])>"
+in_predio_compartilhado,Int64,True,Indicador binário,"<Check isin: isin([0, 1])>"
+in_agua_potavel,Int64,True,Indicador binário,"<Check isin: isin([0, 1])>"
+in_agua_rede_publica,Int64,True,Indicador binário,"<Check isin: isin([0, 1])>"
+in_agua_poco_artesiano,Int64,True,Indicador binário,"<Check isin: isin([0, 1])>"
+in_agua_inexistente,Int64,True,Indicador binário,"<Check isin: isin([0, 1])>"
+in_energia_rede_publica,Int64,True,Indicador binário,"<Check isin: isin([0, 1])>"
+in_energia_gerador,Int64,True,Indicador binário,"<Check isin: isin([0, 1])>"
+in_energia_inexistente,Int64,True,Indicador binário,"<Check isin: isin([0, 1])>"
+qt_mat_bas,Int64,True,Contagem não negativa,<Check greater_than_or_equal_to: greater_than_or_equal_to(0)>
+qt_mat_fund,Int64,True,Contagem não negativa,<Check greater_than_or_equal_to: greater_than_or_equal_to(0)>
+qt_mat_med,Int64,True,Contagem não negativa,<Check greater_than_or_equal_to: greater_than_or_equal_to(0)>
+qt_doc_bas,Int64,True,Contagem não negativa,<Check greater_than_or_equal_to: greater_than_or_equal_to(0)>
+qt_doc_fund,Int64,True,Contagem não negativa,<Check greater_than_or_equal_to: greater_than_or_equal_to(0)>
+qt_doc_med,Int64,True,Contagem não negativa,<Check greater_than_or_equal_to: greater_than_or_equal_to(0)>
+qt_tur_bas,Int64,True,Contagem não negativa,<Check greater_than_or_equal_to: greater_than_or_equal_to(0)>
+qt_tur_fund,Int64,True,Contagem não negativa,<Check greater_than_or_equal_to: greater_than_or_equal_to(0)>
+qt_tur_med,Int64,True,Contagem não negativa,<Check greater_than_or_equal_to: greater_than_or_equal_to(0)>
