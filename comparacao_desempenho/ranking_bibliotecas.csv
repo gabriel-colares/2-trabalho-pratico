@@ -1,0 +1,7 @@
+consulta,posicao,biblioteca,tempo_s,rss_delta_mb,linhas_resultado
+A - Perfil anual,1.0,Polars,0.6923003160000007,784.890625,31
+A - Perfil anual,2.0,PyArrow,2.8188648879995526,1185.2890625,31
+A - Perfil anual,3.0,Pandas,19.449461821000114,250.16796875,31
+B - Completude schema,1.0,Polars,1.3526148840001042,1231.4296875,31
+B - Completude schema,2.0,PyArrow,6.487779287999729,661.734375,31
+B - Completude schema,3.0,Pandas,26.76770665999993,0.0,31
